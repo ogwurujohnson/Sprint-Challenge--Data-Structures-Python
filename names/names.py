@@ -28,7 +28,7 @@ for name in names_1:
     if bst.contains(name):
         duplicates.append(name)
 
-#  SOLUTION (2): Runs in 0.005 seconds
+#  SOLUTION (2): STRETCH CHALLENGE Runs in 0.005 seconds 
 # makes us of SET, so sad we are not allowed to use it
 # duplicates = set(names_1).intersection(names_2)
 
